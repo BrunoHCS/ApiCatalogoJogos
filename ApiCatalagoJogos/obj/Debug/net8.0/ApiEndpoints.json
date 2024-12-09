@@ -1,0 +1,143 @@
+[
+  {
+    "ContainingType": "ApiCatalagoJogos.Controllers.V1.JogosController",
+    "Method": "Obter",
+    "RelativePath": "api/V1/Jogos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pagina",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "quantidade",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[ApiCatalagoJogos.ViewModel.JogoViewModel, ApiCatalagoJogos, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ApiCatalagoJogos.Controllers.V1.JogosController",
+    "Method": "InserirJogo",
+    "RelativePath": "api/V1/Jogos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "jogoInputModel",
+        "Type": "ApiCatalagoJogos.InputModel.JogoInputModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ApiCatalagoJogos.ViewModel.JogoViewModel",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ApiCatalagoJogos.Controllers.V1.JogosController",
+    "Method": "Obter",
+    "RelativePath": "api/V1/Jogos/{idJogo}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idJogo",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ApiCatalagoJogos.ViewModel.JogoViewModel",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ApiCatalagoJogos.Controllers.V1.JogosController",
+    "Method": "AtualizarJogo",
+    "RelativePath": "api/V1/Jogos/{idJogo}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idJogo",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "jogoInputModel",
+        "Type": "ApiCatalagoJogos.InputModel.JogoInputModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiCatalagoJogos.Controllers.V1.JogosController",
+    "Method": "RemoverJogo",
+    "RelativePath": "api/V1/Jogos/{idJogo}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idJogo",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiCatalagoJogos.Controllers.V1.JogosController",
+    "Method": "AtualizarJogo",
+    "RelativePath": "api/V1/Jogos/{idJogo}/preco/{preco}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idJogo",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "preco",
+        "Type": "System.Double",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
