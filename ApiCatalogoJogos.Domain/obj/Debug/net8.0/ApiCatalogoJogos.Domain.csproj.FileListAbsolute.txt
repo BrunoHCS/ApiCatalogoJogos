@@ -1,0 +1,12 @@
+C:\dev\ApiCatalogoJogos\ApiCatalogoJogos.Domain\bin\Debug\net8.0\ApiCatalogoJogos.Domain.deps.json
+C:\dev\ApiCatalogoJogos\ApiCatalogoJogos.Domain\bin\Debug\net8.0\ApiCatalogoJogos.Domain.dll
+C:\dev\ApiCatalogoJogos\ApiCatalogoJogos.Domain\bin\Debug\net8.0\ApiCatalogoJogos.Domain.pdb
+C:\dev\ApiCatalogoJogos\ApiCatalogoJogos.Domain\obj\Debug\net8.0\ApiCatalogoJogos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\ApiCatalogoJogos\ApiCatalogoJogos.Domain\obj\Debug\net8.0\ApiCatalogoJogos.Domain.AssemblyInfoInputs.cache
+C:\dev\ApiCatalogoJogos\ApiCatalogoJogos.Domain\obj\Debug\net8.0\ApiCatalogoJogos.Domain.AssemblyInfo.cs
+C:\dev\ApiCatalogoJogos\ApiCatalogoJogos.Domain\obj\Debug\net8.0\ApiCatalogoJogos.Domain.csproj.CoreCompileInputs.cache
+C:\dev\ApiCatalogoJogos\ApiCatalogoJogos.Domain\obj\Debug\net8.0\ApiCatalogoJogos.Domain.sourcelink.json
+C:\dev\ApiCatalogoJogos\ApiCatalogoJogos.Domain\obj\Debug\net8.0\ApiCatalogoJogos.Domain.dll
+C:\dev\ApiCatalogoJogos\ApiCatalogoJogos.Domain\obj\Debug\net8.0\refint\ApiCatalogoJogos.Domain.dll
+C:\dev\ApiCatalogoJogos\ApiCatalogoJogos.Domain\obj\Debug\net8.0\ApiCatalogoJogos.Domain.pdb
+C:\dev\ApiCatalogoJogos\ApiCatalogoJogos.Domain\obj\Debug\net8.0\ref\ApiCatalogoJogos.Domain.dll
