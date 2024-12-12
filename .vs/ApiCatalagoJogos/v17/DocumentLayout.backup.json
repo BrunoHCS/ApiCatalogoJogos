@@ -1,30 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\bruno\\Desktop\\DIO\\C# e .NET\\ApiCatalagoJogos\\",
+  "WorkspaceRootPath": "C:\\dev\\ApiCatalogoJogos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{58EA141D-993B-4B6F-8173-F6A3EF189AE6}|ApiCatalagoJogos\\ApiCatalagoJogos.csproj|c:\\users\\bruno\\desktop\\dio\\c# e .net\\apicatalagojogos\\apicatalagojogos\\repositories\\jogorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58EA141D-993B-4B6F-8173-F6A3EF189AE6}|ApiCatalagoJogos\\ApiCatalagoJogos.csproj|solutionrelative:apicatalagojogos\\repositories\\jogorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58EA141D-993B-4B6F-8173-F6A3EF189AE6}|ApiCatalagoJogos\\ApiCatalagoJogos.csproj|c:\\users\\bruno\\desktop\\dio\\c# e .net\\apicatalagojogos\\apicatalagojogos\\repositories\\ijogorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58EA141D-993B-4B6F-8173-F6A3EF189AE6}|ApiCatalagoJogos\\ApiCatalagoJogos.csproj|solutionrelative:apicatalagojogos\\repositories\\ijogorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58EA141D-993B-4B6F-8173-F6A3EF189AE6}|ApiCatalagoJogos\\ApiCatalagoJogos.csproj|c:\\users\\bruno\\desktop\\dio\\c# e .net\\apicatalagojogos\\apicatalagojogos\\services\\jogoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58EA141D-993B-4B6F-8173-F6A3EF189AE6}|ApiCatalagoJogos\\ApiCatalagoJogos.csproj|solutionrelative:apicatalagojogos\\services\\jogoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58EA141D-993B-4B6F-8173-F6A3EF189AE6}|ApiCatalagoJogos\\ApiCatalagoJogos.csproj|c:\\users\\bruno\\desktop\\dio\\c# e .net\\apicatalagojogos\\apicatalagojogos\\controllers\\v1\\jogoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58EA141D-993B-4B6F-8173-F6A3EF189AE6}|ApiCatalagoJogos\\ApiCatalagoJogos.csproj|solutionrelative:apicatalagojogos\\controllers\\v1\\jogoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58EA141D-993B-4B6F-8173-F6A3EF189AE6}|ApiCatalagoJogos\\ApiCatalagoJogos.csproj|c:\\users\\bruno\\desktop\\dio\\c# e .net\\apicatalagojogos\\apicatalagojogos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58EA141D-993B-4B6F-8173-F6A3EF189AE6}|ApiCatalagoJogos\\ApiCatalagoJogos.csproj|c:\\dev\\apicatalogojogos\\apicatalagojogos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58EA141D-993B-4B6F-8173-F6A3EF189AE6}|ApiCatalagoJogos\\ApiCatalagoJogos.csproj|solutionrelative:apicatalagojogos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58EA141D-993B-4B6F-8173-F6A3EF189AE6}|ApiCatalagoJogos\\ApiCatalagoJogos.csproj|c:\\users\\bruno\\desktop\\dio\\c# e .net\\apicatalagojogos\\apicatalagojogos\\repositories\\jogosqlserverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58EA141D-993B-4B6F-8173-F6A3EF189AE6}|ApiCatalagoJogos\\ApiCatalagoJogos.csproj|solutionrelative:apicatalagojogos\\repositories\\jogosqlserverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,89 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "JogoSqlServerRepository.cs",
-              "DocumentMoniker": "C:\\Users\\bruno\\Desktop\\DIO\\C# e .NET\\ApiCatalagoJogos\\ApiCatalagoJogos\\Repositories\\JogoSqlServerRepository.cs",
-              "RelativeDocumentMoniker": "ApiCatalagoJogos\\Repositories\\JogoSqlServerRepository.cs",
-              "ToolTip": "C:\\Users\\bruno\\Desktop\\DIO\\C# e .NET\\ApiCatalagoJogos\\ApiCatalagoJogos\\Repositories\\JogoSqlServerRepository.cs",
-              "RelativeToolTip": "ApiCatalagoJogos\\Repositories\\JogoSqlServerRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T15:39:26.432Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\bruno\\Desktop\\DIO\\C# e .NET\\ApiCatalagoJogos\\ApiCatalagoJogos\\Program.cs",
-              "RelativeDocumentMoniker": "ApiCatalagoJogos\\Program.cs",
-              "ToolTip": "C:\\Users\\bruno\\Desktop\\DIO\\C# e .NET\\ApiCatalagoJogos\\ApiCatalagoJogos\\Program.cs",
-              "RelativeToolTip": "ApiCatalagoJogos\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T15:02:39.743Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "JogoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\bruno\\Desktop\\DIO\\C# e .NET\\ApiCatalagoJogos\\ApiCatalagoJogos\\Repositories\\JogoRepository.cs",
-              "RelativeDocumentMoniker": "ApiCatalagoJogos\\Repositories\\JogoRepository.cs",
-              "ToolTip": "C:\\Users\\bruno\\Desktop\\DIO\\C# e .NET\\ApiCatalagoJogos\\ApiCatalagoJogos\\Repositories\\JogoRepository.cs",
-              "RelativeToolTip": "ApiCatalagoJogos\\Repositories\\JogoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAFAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\ApiCatalogoJogos\\ApiCatalagoJogos\\Program.cs",
+              "RelativeDocumentMoniker": "ApiCatalagoJogos\\Program.cs",
+              "ToolTip": "C:\\dev\\ApiCatalogoJogos\\ApiCatalagoJogos\\Program.cs",
+              "RelativeToolTip": "ApiCatalagoJogos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T14:45:26.505Z",
+              "WhenOpened": "2024-12-12T14:57:58.595Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "JogoService.cs",
-              "DocumentMoniker": "C:\\Users\\bruno\\Desktop\\DIO\\C# e .NET\\ApiCatalagoJogos\\ApiCatalagoJogos\\Services\\JogoService.cs",
-              "RelativeDocumentMoniker": "ApiCatalagoJogos\\Services\\JogoService.cs",
-              "ToolTip": "C:\\Users\\bruno\\Desktop\\DIO\\C# e .NET\\ApiCatalagoJogos\\ApiCatalagoJogos\\Services\\JogoService.cs",
-              "RelativeToolTip": "ApiCatalagoJogos\\Services\\JogoService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T14:09:19.537Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "JogosController.cs",
-              "DocumentMoniker": "C:\\Users\\bruno\\Desktop\\DIO\\C# e .NET\\ApiCatalagoJogos\\ApiCatalagoJogos\\Controllers\\V1\\JogosController.cs",
-              "RelativeDocumentMoniker": "ApiCatalagoJogos\\Controllers\\V1\\JogosController.cs",
-              "ToolTip": "C:\\Users\\bruno\\Desktop\\DIO\\C# e .NET\\ApiCatalagoJogos\\ApiCatalagoJogos\\Controllers\\V1\\JogosController.cs",
-              "RelativeToolTip": "ApiCatalagoJogos\\Controllers\\V1\\JogosController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC8AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T13:28:33.585Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IJogoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\bruno\\Desktop\\DIO\\C# e .NET\\ApiCatalagoJogos\\ApiCatalagoJogos\\Repositories\\IJogoRepository.cs",
-              "RelativeDocumentMoniker": "ApiCatalagoJogos\\Repositories\\IJogoRepository.cs",
-              "ToolTip": "C:\\Users\\bruno\\Desktop\\DIO\\C# e .NET\\ApiCatalagoJogos\\ApiCatalagoJogos\\Repositories\\IJogoRepository.cs",
-              "RelativeToolTip": "ApiCatalagoJogos\\Repositories\\IJogoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T16:05:18.595Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }

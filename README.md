@@ -1,3 +1,3 @@
 # ApiCatalogoJogos
 
-# TODO: Ajustar Repository e conectar com SQL Server
+# TODO: Implementar integração com a API Fixer.io para realizar conversões do preço.
